@@ -14,7 +14,7 @@ function setup() {
   scaleSlider = createSlider(-1, 1,0,1)
   scaleSlider.position(10, 750);
   scaleSlider2 = createSlider(-1,1,0,1)
-  scaleSlider2.style('height', '80px');
+  scaleSlider2.style('height', '160px');
   scaleSlider2.position(650, 750);
 }
 
